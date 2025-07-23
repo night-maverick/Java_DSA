@@ -8,11 +8,11 @@ The code is organized week-wise into packages for better structure and clarity.
 ## 📂 Structure
 
 WagmiJava/
-├── Week1/
-├── Week2and3/
-├── Week4/
-├── Week5/
-└── Week6/
+- Week1/
+- Week2and3/
+- Week4/
+- Week5/
+- Week6/
 
 Each folder contains Java files solving standard DSA problems such as:
 - Searching (Binary, Linear)
