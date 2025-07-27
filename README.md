@@ -21,13 +21,14 @@ Each folder contains Java files solving standard DSA problems such as:
 - Array and Input basics
 - Linked Lists
 - Stacks and Queues
-- And many more upcoming...
+- Recursion and Backtracking
+- Strings
 
 ---
 
 ## ✅ Status
 ✔️ Actively updating every week  
-📅 Currently contains work up to **Week 5**
+📅 Currently contains work up to **Week 6**
 
 ---
 
